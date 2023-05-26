@@ -1,0 +1,1 @@
+{"age": {"maxval": 23713, "minval": 14275}, "height": {"maxval": 207, "minval": 120}, "weight": {"maxval": 200, "minval": 35}, "ap_hi": {"maxval": 200, "minval": 60}, "ap_lo": {"maxval": 140, "minval": 40}, "cholesterol": {"maxval": 3}, "gluc": {"maxval": 3}, "gender": {"maxval": 2}, "smoke": {"maxval": 2}, "alco": {"maxval": 2}, "active": {"maxval": 2}, "cardio": {"maxval": 2}}
